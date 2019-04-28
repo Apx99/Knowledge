@@ -1,7 +1,7 @@
 # Knowledge
 _____________
 
-## A storage for free and open source comp sci materials to learn from
+## A Storage For Free/Open Source Comp Sci Materials and Tech To Learn From
 ________________________________________________________________
 
 <a href="https://goalkicker.com/"> Free Programming Tutorials For Multiple Languages and General Computer Science Information </a>
